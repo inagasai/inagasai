@@ -24,7 +24,8 @@ Currently, I am focused on building **AI-powered chatbots** using **OpenAI, Azur
 ## 💼 Past Projects & Work Experience
 I have had the privilege of working on diverse projects across multiple industries, developing **enterprise-grade solutions** in **logistics, telecom, AI, and payments**. My key contributions include:
 
-### **Logistics & Supply Chain** – Architected and developed **shipping and manifesting solutions** for global logistics providers, integrating **carrier APIs** for real-time tracking and compliance ([E2open](https://www.e2open.com), [ProcessWeaver](https://www.processweaver.com), [BluJay Solutions](https://www.blujaysolutions.com), [Kewill](https://www.kewill.com)).
+### **Logistics & Supply Chain** 
+– Architected and developed **shipping and manifesting solutions** for global logistics providers, integrating **carrier APIs** for real-time tracking and compliance ([E2open](https://www.e2open.com), [ProcessWeaver](https://www.processweaver.com), [BluJay Solutions](https://www.blujaysolutions.com), [Kewill](https://www.kewill.com)).
 
 ### **Telecom & Mobility Platforms**
 - **[vCom Solutions - Mobility API](https://www.vcomsolutions.com)** – Built **.NET Core APIs** for a centralized mobility management platform supporting procurement, inventory, tickets, and invoices.
