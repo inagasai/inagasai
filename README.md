@@ -20,6 +20,35 @@ Currently, I am focused on building **AI-powered chatbots** using **OpenAI, Azur
 - Used **LangChain, Pinecone, and spaCy** for intelligent search and NLP classification.
 - Scalable **multi-module assistant** for assets, orders, invoices, vendor management, and support.
 
+## 💼 Past Projects & Work Experience
+I have had the privilege of working with some of the biggest names in the **logistics, telecom, and payments** industries. Here are some key projects I have contributed to:
+
+### **Logistics & Supply Chain Solutions**
+- **E2open** – Contributed to the development of **cloud-based, on-demand software** for supply chains in the computer, telecom, and electronics sectors. E2open connects over 400,000 partners and tracks over 12 billion transactions annually.
+- **BluJay Solutions (NetShip)** – Enhanced the SEMS system to support customer enhancements with modern browser support and improved UI/UX.
+- **ProcessWeaver xCarrier** – Developed shipping solutions integrated with **SAP B1 and over 100 carrier APIs** to automate shipment tracking, rating, and label generation.
+- **Kewill (Pointandship Software)** – Led a team in re-architecting logistics software, achieving FedEx certification and streamlining cross-browser compatibility.
+
+### **Telecom & Mobility Platforms**
+- **vCom Solutions - Mobility API** – Built **.NET Core APIs** for a centralized mobility management platform supporting procurement, inventory, tickets, and invoices.
+- **vCom Solutions - iPath 2.0** – Migrated a legacy ASP-based telecom management platform to .NET with optimized performance and UI enhancements.
+
+### **Fintech & Payments**
+- **Money360 - Khumbu Systems** – Led an 8-member team to build a **multi-language web & mobile financial platform** supporting eWallets, payment gateways, and prepaid card issuance.
+- **Ace Rankings** – Integrated **Google Ads & MSN APIs** to provide intelligent campaign tracking with custom dashboards and analytics.
+
+### **AI & NLP Innovations**
+- **vAI - vCom Solutions** – Architected an **AI chatbot** using **GPT-4o, Pinecone, and LangChain** for **query-based knowledge retrieval and chatbot interactions**.
+- **vManager AI Assistant** – Built a **vendor management chatbot** with SQL-based procedural execution for dynamic responses to enterprise queries.
+
+These experiences have provided me with extensive exposure to **enterprise application development, AI-driven automation, API integrations, and scalable cloud solutions**.
+
+## 🎓 Certifications
+- **MS: 70-480** - Programming in HTML5 with JavaScript and CSS3
+- **MCPS: Microsoft Certified Professional 70-486** - Developing ASP.NET MVC Web Applications
+- **Udemy Certifications** - TypeScript, Angular
+- **Multiple Carrier Certifications** - Including FedEx and UPS compliance for logistics solutions
+
 ## 🛠️ Tech Stack & Tools
 ### **Languages & Frameworks**
 - **AI & NLP**: Python, OpenAI API, LangChain, Pinecone, spaCy
