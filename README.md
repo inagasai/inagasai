@@ -26,7 +26,8 @@ I have had the privilege of working with some of the biggest names in the **logi
 ### **Logistics & Supply Chain Solutions**
 - **E2open** – Contributed to the development of **cloud-based, on-demand software** for supply chains in the computer, telecom, and electronics sectors. E2open connects over 400,000 partners and tracks over 12 billion transactions annually.
 - **BluJay Solutions (NetShip)** – Enhanced the SEMS system to support customer enhancements with modern browser support and improved UI/UX.
-- **ProcessWeaver xCarrier** – Developed shipping solutions integrated with **SAP B1 and over 100 carrier APIs** to automate shipment tracking, rating, and label generation.
+- **ProcessWeaver xCarrier** – Developed a **real-time shipping and manifesting system** integrated with over **100 carrier APIs** including FedEx, UPS, and DHL. Built **SAP B1 add-ons** for seamless shipment processing.
+- **ProcessWeaver EFS, ECS, EAV, and ESI** – Led multiple projects for **enterprise shipping solutions**, ensuring compliance with carrier regulations and streamlining logistics processes.
 - **Kewill (Pointandship Software)** – Led a team in re-architecting logistics software, achieving FedEx certification and streamlining cross-browser compatibility.
 
 ### **Telecom & Mobility Platforms**
@@ -34,7 +35,6 @@ I have had the privilege of working with some of the biggest names in the **logi
 - **vCom Solutions - iPath 2.0** – Migrated a legacy ASP-based telecom management platform to .NET with optimized performance and UI enhancements.
 
 ### **Fintech & Payments**
-- **Money360 - Khumbu Systems** – Led an 8-member team to build a **multi-language web & mobile financial platform** supporting eWallets, payment gateways, and prepaid card issuance.
 - **Ace Rankings** – Integrated **Google Ads & MSN APIs** to provide intelligent campaign tracking with custom dashboards and analytics.
 
 ### **AI & NLP Innovations**
