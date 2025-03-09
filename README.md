@@ -22,14 +22,9 @@ Currently, I am focused on building **AI-powered chatbots** using **OpenAI, Azur
 - Scalable **multi-module assistant** for assets, orders, invoices, vendor management, and support.
 
 ## 💼 Past Projects & Work Experience
-I have had the privilege of working with some of the biggest names in the **logistics, telecom, and payments** industries. Here are some key projects I have contributed to:
+I have had the privilege of working on diverse projects across multiple industries, developing **enterprise-grade solutions** in **logistics, telecom, AI, and payments**. My key contributions include:
 
-### **Logistics & Supply Chain Solutions**
-- **[E2open](https://www.e2open.com)** – Contributed to the development of **cloud-based, on-demand software** for supply chains in the computer, telecom, and electronics sectors. E2open connects over 400,000 partners and tracks over 12 billion transactions annually.
-- **[BluJay Solutions (NetShip)](https://www.blujaysolutions.com)** – Enhanced the SEMS system to support customer enhancements with modern browser support and improved UI/UX.
-- **[ProcessWeaver xCarrier](https://www.processweaver.com)** – Developed a **real-time shipping and manifesting system** integrated with over **100 carrier APIs** including [FedEx](https://www.fedex.com), [UPS](https://www.ups.com), and DHL. Built **SAP B1 add-ons** for seamless shipment processing.
-- **ProcessWeaver EFS, ECS, EAV, and ESI** – Led multiple projects for **enterprise shipping solutions**, ensuring compliance with carrier regulations and streamlining logistics processes.
-- **[Kewill (Pointandship Software)](https://www.kewill.com)** – Led a team in re-architecting logistics software, achieving FedEx certification and streamlining cross-browser compatibility.
+### **Logistics & Supply Chain** – Architected and developed **shipping and manifesting solutions** for global logistics providers, integrating **carrier APIs** for real-time tracking and compliance ([E2open](https://www.e2open.com), [ProcessWeaver](https://www.processweaver.com), [BluJay Solutions](https://www.blujaysolutions.com), [Kewill](https://www.kewill.com)).
 
 ### **Telecom & Mobility Platforms**
 - **[vCom Solutions - Mobility API](https://www.vcomsolutions.com)** – Built **.NET Core APIs** for a centralized mobility management platform supporting procurement, inventory, tickets, and invoices.
@@ -41,7 +36,6 @@ I have had the privilege of working with some of the biggest names in the **logi
 
 ### **AI & NLP Innovations**
 - **vAI - [vCom Solutions](https://www.vcomsolutions.com)** – Architected an **AI chatbot** using **GPT-4o, Pinecone, and LangChain** for **query-based knowledge retrieval and chatbot interactions**.
-- **vManager AI Assistant** – Built a **vendor management chatbot** with SQL-based procedural execution for dynamic responses to enterprise queries.
 
 These experiences have provided me with extensive exposure to **enterprise application development, AI-driven automation, API integrations, and scalable cloud solutions**.
 
