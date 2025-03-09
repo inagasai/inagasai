@@ -22,7 +22,9 @@ Currently, I am focused on building **AI-powered chatbots** using **OpenAI, Azur
 - Scalable **multi-module assistant** for assets, orders, invoices, vendor management, and support.
 
 ## 💼 Past Projects & Work Experience
-I have had the privilege of working on diverse projects across multiple industries, developing **enterprise-grade solutions** in **logistics, telecom, AI, and payments**. My key contributions include:
+I have had the privilege of working on diverse projects across multiple industries, developing enterprise-grade solutions in logistics, telecom, AI, and payments.
+
+My key contributions include:
 
 ### **Logistics & Supply Chain** 
 - Architected and developed **shipping and manifesting solutions** for global logistics providers, integrating **carrier APIs** for real-time tracking and compliance.
@@ -33,8 +35,8 @@ I have had the privilege of working on diverse projects across multiple industri
 
 ### **Telecom & Mobility Platforms**
 - **[vCom Solutions - Mobility API](https://www.vcomsolutions.com)** – Built **.NET Core APIs** for a centralized mobility management platform supporting procurement, inventory, tickets, and invoices.
-- **[vCom Solutions - iPath 2.0](https://www.ipaht.vcomsolutions.com)** – Migrated a legacy ASP-based telecom management platform to .NET with optimized performance and UI enhancements.
 - **vMobile & QMobile** Projects – Led the development and integration of **vMobile and QMobile**, ensuring smooth communication and seamless mobile device management. These platforms provide comprehensive inventory tracking, order management, and real-time updates for enterprise customers managing mobile assets across different carriers.
+- **[vCom Solutions - iPath 2.0](https://www.ipaht.vcomsolutions.com)** – Migrated a legacy ASP-based telecom management platform to .NET with optimized performance and UI enhancements.
 
 ### **Fintech & Payments**
 - **[Ace Rankings](https://www.acerankings.com)** – Integrated **Google Ads & MSN APIs** to provide intelligent campaign tracking with custom dashboards and analytics.
