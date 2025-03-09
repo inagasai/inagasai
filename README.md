@@ -1,4 +1,4 @@
-# Hi there, I'm Nagasai Mudara! 👋
+# Hello! I'm Nagasai Mudara! 👋
 
 ## 🚀 About Me
 I am a **Technical Solutions Architect** with over 20 years of experience in designing and developing innovative business solutions. My expertise spans across **AI, .NET technologies, cloud solutions, and enterprise software development**.
