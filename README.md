@@ -28,8 +28,7 @@ I have had the privilege of working on diverse projects across multiple industri
 - Architected and developed **shipping and manifesting solutions** for global logistics providers, integrating **carrier APIs** for real-time tracking and compliance.
 - **[E2open](https://www.e2open.com)** – Contributed to the development of **cloud-based, on-demand software** for supply chains in the computer, telecom, and electronics sectors. E2open connects over 400,000 partners and tracks over 12 billion transactions annually.
 - **[BluJay Solutions (NetShip)](https://www.blujaysolutions.com)** – Enhanced the SEMS system to support customer enhancements with modern browser support and improved UI/UX.
-- **[ProcessWeaver xCarrier](https://www.processweaver.com)** – Developed a **real-time shipping and manifesting system** integrated with over **100 carrier APIs** including [FedEx](https://www.fedex.com), [UPS](https://www.ups.com), and DHL. Built **SAP B1 add-ons** for seamless shipment processing.
-- **ProcessWeaver EFS, ECS, EAV, and ESI** – Led multiple projects for **enterprise shipping solutions**, ensuring compliance with carrier regulations and streamlining logistics processes.
+- **[ProcessWeaver xCarrier](https://www.processweaver.com)** – Developed a **real-time shipping and manifesting system** integrated with over **100 carrier APIs** including [FedEx](https://www.fedex.com), [UPS](https://www.ups.com), and DHL. Built **SAP B1 add-ons** for seamless shipment processing. Integrated with modules like **EFS, ECS, EAV, and ESI** – Led multiple projects for **enterprise shipping solutions**, ensuring compliance with carrier regulations and streamlining logistics processes.
 - **[Kewill (Pointandship Software)](https://www.kewill.com)** – Led a team in re-architecting logistics software, achieving FedEx certification and streamlining cross-browser compatibility.
 
 ### **Telecom & Mobility Platforms**
