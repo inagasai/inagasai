@@ -74,7 +74,7 @@ These experiences have provided me with extensive exposure to **enterprise appli
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/nagasai](https://in.linkedin.com/in/nagasai)
 - **GitHub**: [github.com/inagasai](https://github.com/inagasai)
-- **Personal Blog**: [www.inagasai.com](https://www.inagasai.com)
+- **Personal Blog**: [www.inagasai.com](http://www.inagasai.com)
 
 🚀 Passionate about **AI, .NET, and building innovative solutions** that make a difference!
 
